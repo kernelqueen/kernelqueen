@@ -7,13 +7,13 @@ I share coding solutions, tutorials, and resources for learning algorithms, data
 
 ## 🌱 About Me  
 - 💻 Passionate about problem solving & coding challenges  
-- 🎥 Sharing solutions & explanations on my [YouTube Channel](https://youtube.com/kernel-queen)  
+- 🎥 Sharing solutions & explanations on my [YouTube Channel](https://youtube.com/@kernel-queen)  
 - 📚 Currently exploring advanced algorithms & clean coding practices  
 
 ---
 
 ## 📂 Featured Repositories  
-- 🔗 [LeetCode Solutions](https://github.com/kernelqueen/leetcode-solutions)  
+- 🔗 [LeetCode Solutions](https://github.com/kernelqueen/LeetcodeSolutions)  
 - 🔗 [Coding Notes](https://github.com/kernelqueen/coding-notes)  
 - 🔗 [Projects](https://github.com/kernelqueen/projects)  
 
@@ -27,4 +27,4 @@ I share coding solutions, tutorials, and resources for learning algorithms, data
 
 ## 🤝 Connect with Me  
 - 📺 [YouTube](https://youtube.com/kernel-queen)  
-- 🐙 [GitHub](https://github.com/kernelqueen)
+- 🐙 [GitHub](https://github.com/@kernel-queen)
